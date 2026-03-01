@@ -62,15 +62,15 @@ Zustand
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/Yogesa8&show_icons=true&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Yogesa8&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Yogesa8&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
@@ -78,7 +78,7 @@ Zustand
 # 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/https://github.com/Yogesa8/https://github.com/Yogesa8E/output/snake.svg" />
 </p>
 
 ---
