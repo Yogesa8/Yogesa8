@@ -145,16 +145,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesa8&layo
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yogesa8&theme=flat&no-frame=true&margin-w=15&row=1"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
