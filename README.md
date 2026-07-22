@@ -5,7 +5,7 @@ Frontend Developer | React.js Developer | JavaScript Engineer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Specialist;JavaScript+Developer;Building+Modern+Responsive+Web+Applications;Open+to+Frontend+Opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Specialist;JavaScript+Developer;Building+Modern+Responsive+Web+Applications;Open+to+Frontend+Developer+Opportunities" />
 </p>
 
 <p align="center">
@@ -28,29 +28,34 @@ Frontend Developer | React.js Developer | JavaScript Engineer
 
 # 👨‍💻 About Me
 
-Frontend Developer with **2+ years of experience** building responsive, scalable, and high-performance web applications using **React.js** and **JavaScript (ES6+)**.
+Frontend Developer with **2+ years of experience** building scalable and responsive web applications using **React.js**, **JavaScript (ES6+)**, **REST APIs**, and modern frontend technologies.
 
-Currently working as a **Frontend Developer** at **Aero Flight Technology Group**, where I develop production-ready applications, integrate third-party APIs, and build modern user interfaces.
+Currently working as a **Frontend Developer** at **Aero Flight Technology Group**, building production-ready travel applications and integrating third-party APIs.
 
-### What I work with
+## 🚀 Skills
 
-- ⚛ React.js
-- 💻 JavaScript (ES6+)
-- 🎨 HTML5, CSS3
-- 🌊 Tailwind CSS
-- 🎯 Bootstrap
-- 🔄 Redux Toolkit
-- 🐻 Zustand
-- 🔗 REST APIs
-- 🔐 Firebase Auth
-- 🔐 Supabase Auth
-- 🔑 Google OAuth
-- 🗄 MongoDB
-- 🗄 MySQL
-- 🐘 PHP
-- 🌐 Node.js (Basic)
-- 🚀 Git & GitHub
-- 📮 Postman
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
+- Material UI
+- Redux Toolkit
+- Zustand
+- REST APIs
+- Firebase Authentication
+- Supabase Authentication
+- Google OAuth
+- MongoDB
+- MySQL
+- PHP
+- Node.js (Basic)
+- Git
+- GitHub
+- Postman
+- Vercel
+- Netlify
 
 ---
 
@@ -58,19 +63,19 @@ Currently working as a **Frontend Developer** at **Aero Flight Technology Group*
 
 ### 🚁 Arcanum Space
 
-Modern responsive drone technology website built with React.js, Tailwind CSS and interactive UI.
+Modern responsive drone technology website built using React.js and Tailwind CSS.
 
 ### ✈ Flight Data Management System
 
-Production web application for managing flight operations with API integrations and database-driven workflows.
+Flight management platform with API integrations and database-driven workflows.
 
 ### 🎓 FirstJobIndia
 
-Institute & Job Portal platform featuring dashboards, authentication, course management and responsive interfaces.
+Institute Management & Job Portal platform with dashboards and authentication.
 
-### 💼 Portfolio Website
+### 💼 Personal Portfolio
 
-Personal portfolio showcasing projects, experience and frontend expertise.
+Modern React portfolio showcasing projects and experience.
 
 ---
 
@@ -90,10 +95,16 @@ Personal portfolio showcasing projects, experience and frontend expertise.
 
 **Zustand**
 
-### Backend & Authentication
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,nodejs,firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=php,nodejs" />
+</p>
+
+### Authentication
+
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,supabase" />
 </p>
 
 ### Database
@@ -110,19 +121,55 @@ Personal portfolio showcasing projects, experience and frontend expertise.
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yogesa8&show_icons=true&theme=transparent&hide_border=true"/>
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=yogesa8&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=yogesa8&theme=transparent&hide_border=true"/>
+<img
+height="170"
+src="https://github-readme-streak-stats.herokuapp.com?user=yogesa8&theme=transparent&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesa8&layout=compact&theme=transparent&hide_border=true"/>
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesa8&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yogesa8&theme=flat&no-frame=true&margin-w=15&row=1"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yogesa8&theme=github-compact"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/yogesa8/yogesa8/output/snake.svg" alt="Snake animation"/>
 
 </p>
 
@@ -130,14 +177,20 @@ Personal portfolio showcasing projects, experience and frontend expertise.
 
 # 📫 Connect With Me
 
-- 📍 Delhi, India
-- 📧 **Jangiry035@gmail.com**
-- 🌐 Portfolio: **https://yogesa8.vercel.app/**
-- 💼 LinkedIn: **https://www.linkedin.com/in/yog-esh-081b03250/**
-- 💻 GitHub: **https://github.com/yogesa8**
+📍 Delhi, India
+
+📧 **Jangiry035@gmail.com**
+
+🌐 **Portfolio:** https://yogesa8.vercel.app/
+
+💼 **LinkedIn:** https://www.linkedin.com/in/yog-esh-081b03250/
+
+💻 **GitHub:** https://github.com/yogesa8
 
 ---
 
 <h3 align="center">
+
 🚀 Open to Frontend Developer • React Developer • Web Developer Opportunities
+
 </h3>
