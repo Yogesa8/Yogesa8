@@ -125,9 +125,9 @@ Modern React portfolio showcasing projects and experience.
 
 <p align="center">
 
-<img
+<!-- <img
 height="170"
-src="https://github-readme-stats.vercel.app/api?username=yogesa8&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+src="https://github-readme-stats.vercel.app/api?username=yogesa8&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/> -->
 
 <img
 height="170"
@@ -137,9 +137,9 @@ src="https://github-readme-streak-stats.herokuapp.com?user=yogesa8&theme=transpa
 
 <p align="center">
 
-<img
+<!-- <img
 height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesa8&layout=compact&theme=transparent&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesa8&layout=compact&theme=transparent&hide_border=true"/> -->
 
 </p>
 
