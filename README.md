@@ -10,7 +10,7 @@ Frontend Developer | React.js Developer | JavaScript Engineer
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/yog-esh-081b03250/">
+<a href="https://www.linkedin.com/in/yogesa8/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -34,28 +34,14 @@ Currently working as a **Frontend Developer** at **Aero Flight Technology Group*
 
 ## 🚀 Skills
 
-- React.js
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
-- Material UI
-- Redux Toolkit
-- Zustand
-- REST APIs
-- Firebase Authentication
-- Supabase Authentication
-- Google OAuth
-- MongoDB
-- MySQL
-- PHP
-- Node.js (Basic)
-- Git
-- GitHub
-- Postman
-- Vercel
-- Netlify
+| Category | Technologies |
+|----------|--------------|
+| **Frontend** | React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap, Material UI |
+| **State Management** | Redux Toolkit, Zustand |
+| **API & Authentication** | REST APIs, Firebase Authentication, Supabase Authentication, Google OAuth |
+| **Backend** | PHP, Node.js *(Basic)* |
+| **Database** | MongoDB, MySQL |
+| **Tools & Deployment** | Git, GitHub, Postman, Vercel, Netlify |
 
 ---
 
@@ -155,7 +141,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesa8&layo
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Contribution 
 
 <p align="center">
 
@@ -185,7 +171,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesa8&layo
 
 🌐 **Portfolio:** https://yogesa8.vercel.app/
 
-💼 **LinkedIn:** https://www.linkedin.com/in/yog-esh-081b03250/
+💼 **LinkedIn:** https://www.linkedin.com/in/yogesa8/
 
 💻 **GitHub:** https://github.com/yogesa8
 
